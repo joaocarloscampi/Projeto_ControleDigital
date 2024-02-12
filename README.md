@@ -12,7 +12,7 @@ Grupo:
 O repositório está organizado nas seguintes pastas:
 - **AquisicaoDados:** Sintetização dos dados obtidos em bancada com o controlador de avanço de fase
 - **Caracterizacao da planta:** Caracterização e obtenção da função de transferência da planta bimotora a partir de um ensaio angular lido em um osciloscópio
--** Controladores Funcionais:** Arquivos sisotool com os controladores desenvolvidos para a plataforma: Avanço de fase e Avanço+Atraso de fase
+- **Controladores Funcionais:** Arquivos sisotool com os controladores desenvolvidos para a plataforma: Avanço de fase e Avanço+Atraso de fase
 - **Embarcado:** Código main e arquivo de configuração IOC do microcontrolador STM utilizado na bancada
 - **Experimentos pré-projeto:** Ensaios desejados para as conversoes de Angulo-Tensão e PWM-Força, necessário para o código embarcado e controle
 
